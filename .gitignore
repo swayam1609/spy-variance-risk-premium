@@ -1,0 +1,5 @@
+data_inputs/processed/
+data_inputs/raw_options/
+__pycache__/
+*.pyc
+.vscode/
